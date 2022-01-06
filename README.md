@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+This is the place where i opensource stuffs and break things:
 
 - 🔭 I’m currently working on honing my Python, Machine Learning and Linux skills
 - 🌱 I’m currently learning anything that spikes my interest for example Machine Learning
