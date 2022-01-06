@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AWS, Trading/Crypto
 - 💬 Ask me about Anything
 - 📫 How to reach me: kabutobill6@gmail.com
-- ⚡ Hobbies: I take pleasure in watching/reading Anime & manga enthusiast, Working out/Exercising, playing video games
+- ⚡ Hobbies: I take pleasure in watching/reading Anime & manga enthusiast, Working out/Exercising, playing video games(<img align="right" alt=" | Playstation" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" /> <b>Space_Cowboy250</b>)
 
 
 ### Connect with me
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [<img align="left" alt=" | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
-<img align="right" alt=" | Playstation" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" /> <b>Space_Cowboy250</b>
+
 
 
 
