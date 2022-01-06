@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AWS, Trading/Crypto
 - 💬 Ask me about Anything
 - 📫 How to reach me: kabutobill6@gmail.com
-- ⚡ Hobbies: I take pleasure in watching/reading Anime & manga enthusiast, Working out/Exercising, playing video games
+- ⚡ Hobbies: I take pleasure in watching/reading Anime & manga enthusiast, Working out/Exercising, Gaming
 
 
 ### Connect with me
