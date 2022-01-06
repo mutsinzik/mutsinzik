@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything
 - 📫 How to reach me: kabutobill6@gmail.com
-- ⚡ Fun fact: I'm a big anime, manga enthusiast
+- ⚡ Hobbies: Anime & manga enthusiast, Working out/Exercising
 -->
