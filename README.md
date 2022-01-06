@@ -1,18 +1,19 @@
-<b>Hi there 👋 I'm Bill Kabuto</b> 
+<b>Hi guys, I'm Bill Kabuto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b> 
+
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on honing my ML and Linux skills
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on various projects related to AI, ML, Python, etc.
+- 🔭 I’m currently working on honing my Python, Machine Learning and Linux skills
+- 🌱 I’m currently learning anything that spikes my interest for example Machine Learning
+- 👯 I’m looking to collaborate on various open source projects.
 - 🤔 I’m looking for help with AWS, Trading/Crypto
 - 💬 Ask me about Anything
 - 📫 How to reach me: kabutobill6@gmail.com
 - ⚡ Hobbies: I take pleasure in watching/reading Anime & manga enthusiast, Working out/Exercising, Gaming
 
 
-### Connect with me
+### You can find me on
 [<img align="left" alt=" | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | SoundCloud" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 [<img align="left" alt=" | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
