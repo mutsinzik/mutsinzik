@@ -10,7 +10,7 @@ This is the place where i opensource stuffs and break things:
 - 🤔 I’m looking for help with AWS, Trading/Crypto
 - 💬 Ask me about Anything
 - 📫 How to reach me: kabutobill6@gmail.com
-- ⚡ Hobbies: I take pleasure in watching/reading Anime & manga enthusiast, Working out/Exercising, Gaming
+- ⚡ Hobbies: I take pleasure in watching/reading Anime & manga, Working out/Exercising, Gaming
 
 
 ### You can find me on
