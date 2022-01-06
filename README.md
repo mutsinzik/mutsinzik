@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [<img align="left" alt=" | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 <img align="left" alt=" | Playstation" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" /> <b>Space_Cowboy250</b>
-<br/>
+
 
 
 
